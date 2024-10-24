@@ -1,0 +1,17 @@
+Git clone https://github.com/sukumar7066/Gitcommands.git
+
+Git and Github
+
+alternatives :  AWS,bitbucket,gitlab
+
+
+git add . >>> add the file to the staging alternatives  (file is being tracked by git)
+
+git commit -m "message"   >>>> to commit the changes in the tracked file 
+
+git push origin main  >>>> pushing the file to the main branch in Githb repository
+
+git add filename
+
+git add .
+
